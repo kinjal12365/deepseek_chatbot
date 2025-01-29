@@ -11,3 +11,11 @@ Python
 LangChain (langchain_ollama, langchain_core)
 Streamlit (UI framework)
 Ollama (Local LLM inference)
+
+
+
+Note : you need to download ollama from the website https://ollama.com/
+
+Then you have to install it and after installing downloading deepseek-r1 from the terminal using ollama installer and volla you are ready to use the code
+
+Happy chatting 🚀
