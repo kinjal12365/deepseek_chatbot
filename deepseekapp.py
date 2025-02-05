@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title('deepseek local chatbot dummy (1.5)parameters')
 
-template = """""Question : {question}
+template = """"Question : {question}
 
 Answer: Let's think step by step."""
 
